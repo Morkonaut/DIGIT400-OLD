@@ -4,6 +4,6 @@
 
 This is a demo site for the students of [Penn State Behrend](http://behrend.psu.edu/)
 
-##We can imbed images too!
+## We can imbed images too!
 
 ![Computer Cat](https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif)
